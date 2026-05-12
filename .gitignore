@@ -1,0 +1,21 @@
+# Logs / temp
+*.log
+logs/
+*.tmp
+*.bak
+
+# Environments
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local workspace meta
+.workspace/
+WORKSPACE.md
